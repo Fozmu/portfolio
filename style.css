@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700&display=swap');
+
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400;
+}
+
+header {
+    background-color: white;
+}
+
+.dark {
+    color: #234361;
+    font-weight: bold;
+}
+
+
+.HeaderBrackets {
+    height: 189px;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+.blue {
+    color: #1070CA;
+}
